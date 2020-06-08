@@ -1,0 +1,9 @@
+/local
+/config/covidBigQueryProject-53452f2a6e67.json
+/venv
+/__pycache__
+/.idea
+/airflow_home/logs
+/airflow_home/__pycache__
+/airflow_home/dags/simple_dag.py
+/airflow_home/dags/xcom_sample.py
